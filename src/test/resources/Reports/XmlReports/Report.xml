@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="20" time="0.008094">
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin login with valid credentials" time="0.003065">
+        <system-out><![CDATA[Given User has to be there in Adactin home page.............................skipped
+When User has to fill username and password.................................skipped
+And User Click the Login button.............................................skipped
+Then User has to be there in Adactin search hotel page......................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin search hotel page with give the mandatory info to book the hotels" time="0.000149">
+        <system-out><![CDATA[Given User has to be there in Adactin search hotel page.....................skipped
+When User has to enter Loaction and hotel and Room Type and Numbers of rooms and Check in date and Check out date and Adult per room and Childern per room.skipped
+And User click the search button............................................skipped
+Then User is navigating to Booking confirmation page........................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin select hotel page" time="0.000143">
+        <system-out><![CDATA[Given User has to be there in Adactin select hotel page.....................skipped
+When User click the Select hotel............................................skipped
+And User click the continue button..........................................skipped
+Then User is navigating to Book hotel page..................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin Book hotel page" time="0.000127">
+        <system-out><![CDATA[Given User has to be there in Adactin Book hotel page.......................skipped
+When User has to enter Firstname and Lastname and Billingaddress and Credit card no and "Master Card" Expirydate and CVV Number.skipped
+And User click the BookNow button...........................................skipped
+Then User is navigating to BookingConfirm page..............................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin Booking Cofirm page" time="0.000126">
+        <system-out><![CDATA[Given User has to be there in Adactin Booking Cofirm page...................skipped
+When User get the booking confirmation order no.............................skipped
+Then User is booking the room is done!!!....................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin login with valid credentials" time="0.000137">
+        <system-out><![CDATA[Given User has to be there in Adactin home page.............................skipped
+When User has to fill username and password.................................skipped
+And User Click the Login button.............................................skipped
+Then User has to be there in Adactin search hotel page......................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin search hotel page with give the mandatory info to book the hotels" time="0.000191">
+        <system-out><![CDATA[Given User has to be there in Adactin search hotel page.....................skipped
+When User has to enter Loaction and hotel and Room Type and Numbers of rooms and Check in date and Check out date and Adult per room and Childern per room.skipped
+And User click the search button............................................skipped
+Then User is navigating to Booking confirmation page........................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin select hotel page" time="0.002445">
+        <system-out><![CDATA[Given User has to be there in Adactin select hotel page.....................skipped
+When User click the Select hotel............................................skipped
+And User click the continue button..........................................skipped
+Then User is navigating to Book hotel page..................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin Book hotel page" time="0.000149">
+        <system-out><![CDATA[Given User has to be there in Adactin Book hotel page.......................skipped
+When User has to enter Firstname and Lastname and Billingaddress and Credit card no and "Others" Expirydate and CVV Number.skipped
+And User click the BookNow button...........................................skipped
+Then User is navigating to BookingConfirm page..............................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin Booking Cofirm page" time="0.000115">
+        <system-out><![CDATA[Given User has to be there in Adactin Booking Cofirm page...................skipped
+When User get the booking confirmation order no.............................skipped
+Then User is booking the room is done!!!....................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin login with valid credentials" time="0.000178">
+        <system-out><![CDATA[Given User has to be there in Adactin home page.............................skipped
+When User has to fill username and password.................................skipped
+And User Click the Login button.............................................skipped
+Then User has to be there in Adactin search hotel page......................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin search hotel page with give the mandatory info to book the hotels" time="0.000117">
+        <system-out><![CDATA[Given User has to be there in Adactin search hotel page.....................skipped
+When User has to enter Loaction and hotel and Room Type and Numbers of rooms and Check in date and Check out date and Adult per room and Childern per room.skipped
+And User click the search button............................................skipped
+Then User is navigating to Booking confirmation page........................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin select hotel page" time="0.000122">
+        <system-out><![CDATA[Given User has to be there in Adactin select hotel page.....................skipped
+When User click the Select hotel............................................skipped
+And User click the continue button..........................................skipped
+Then User is navigating to Book hotel page..................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin Book hotel page" time="0.000127">
+        <system-out><![CDATA[Given User has to be there in Adactin Book hotel page.......................skipped
+When User has to enter Firstname and Lastname and Billingaddress and Credit card no and "VISA" Expirydate and CVV Number.skipped
+And User click the BookNow button...........................................skipped
+Then User is navigating to BookingConfirm page..............................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin Booking Cofirm page" time="0.000104">
+        <system-out><![CDATA[Given User has to be there in Adactin Booking Cofirm page...................skipped
+When User get the booking confirmation order no.............................skipped
+Then User is booking the room is done!!!....................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin login with valid credentials" time="0.000124">
+        <system-out><![CDATA[Given User has to be there in Adactin home page.............................skipped
+When User has to fill username and password.................................skipped
+And User Click the Login button.............................................skipped
+Then User has to be there in Adactin search hotel page......................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin search hotel page with give the mandatory info to book the hotels" time="0.000117">
+        <system-out><![CDATA[Given User has to be there in Adactin search hotel page.....................skipped
+When User has to enter Loaction and hotel and Room Type and Numbers of rooms and Check in date and Check out date and Adult per room and Childern per room.skipped
+And User click the search button............................................skipped
+Then User is navigating to Booking confirmation page........................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin select hotel page" time="0.000116">
+        <system-out><![CDATA[Given User has to be there in Adactin select hotel page.....................skipped
+When User click the Select hotel............................................skipped
+And User click the continue button..........................................skipped
+Then User is navigating to Book hotel page..................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin Book hotel page" time="0.000213">
+        <system-out><![CDATA[Given User has to be there in Adactin Book hotel page.......................skipped
+When User has to enter Firstname and Lastname and Billingaddress and Credit card no and "American Express" Expirydate and CVV Number.skipped
+And User click the BookNow button...........................................skipped
+Then User is navigating to BookingConfirm page..............................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate the Adactin login Funtionality" name="To validate the Adactin Booking Cofirm page" time="0.000229">
+        <system-out><![CDATA[Given User has to be there in Adactin Booking Cofirm page...................skipped
+When User get the booking confirmation order no.............................skipped
+Then User is booking the room is done!!!....................................skipped
+]]></system-out>
+    </testcase>
+</testsuite>

@@ -1,0 +1,1758 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1203872,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "To validate the Adactin login with valid credentials",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-login-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 13886,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14490,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User has to be there in Adactin home page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7244,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User has to fill username and password",
+            "match": {
+              "location": "Adactin_Login.user_has_to_fill_username_and_password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "username",
+                  "password"
+                ]
+              },
+              {
+                "cells": [
+                  "SSRajaPalani",
+                  "Sundar"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6641,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User Click the Login button",
+            "match": {
+              "location": "Adactin_Login.user_Click_the_Login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6641,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User has to be there in Adactin search hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_search_hotel_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13282,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "To validate the Adactin search hotel page with give the mandatory info to book the hotels",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-search-hotel-page-with-give-the-mandatory-info-to-book-the-hotels",
+        "after": [
+          {
+            "result": {
+              "duration": 8453,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10264,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "User has to be there in Adactin search hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_search_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8453,
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "User has to enter Loaction and hotel and Room Type and Numbers of rooms and Check in date and Check out date and Adult per room and Childern per room",
+            "match": {
+              "location": "Adactin_Login.user_has_to_enter_Loaction_and_hotel_and_Room_Type_and_Numbers_of_rooms_and_Check_in_date_and_Check_out_date_and_Adult_per_room_and_Childern_per_room()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7848,
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "User click the search button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "User is navigating to Booking confirmation page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_Booking_confirmation_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13282,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "To validate the Adactin select hotel page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-select-hotel-page",
+        "after": [
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10263,
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "User has to be there in Adactin select hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_select_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9057,
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "User click the Select hotel",
+            "match": {
+              "location": "Adactin_Login.user_click_the_Select_hotel()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "User click the continue button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8453,
+              "status": "skipped"
+            },
+            "line": 21,
+            "name": "User is navigating to Book hotel page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_Book_hotel_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13282,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 33,
+        "name": "To validate the Adactin Book hotel page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-book-hotel-page;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10263,
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "User has to be there in Adactin Book hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_Book_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "line": 25,
+            "name": "User has to enter Firstname and Lastname and Billingaddress and Credit card no and \"Master Card\" Expirydate and CVV Number",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Master Card\"",
+                  "offset": 83
+                }
+              ],
+              "location": "Adactin_Login.user_has_to_enter_Firstname_and_Lastname_and_Billingaddress_and_Credit_card_no_and_Expirydate_and_CVV_Number(String,DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Firstname",
+                  "Lastname",
+                  "Billing Address",
+                  "Credit card no",
+                  "CVV Number"
+                ]
+              },
+              {
+                "cells": [
+                  "SSRAJA",
+                  "Palani",
+                  "123,Abc New St",
+                  "8945698745631112",
+                  "951"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8453,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "User click the BookNow button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_BookNow_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9660,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "User is navigating to BookingConfirm page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_BookingConfirm_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 11471,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "To validate the Adactin Booking Cofirm page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-booking-cofirm-page",
+        "after": [
+          {
+            "result": {
+              "duration": 7848,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8453,
+              "status": "skipped"
+            },
+            "line": 36,
+            "name": "User has to be there in Adactin Booking Cofirm page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_Booking_Cofirm_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 13887,
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "User get the booking confirmation order no",
+            "match": {
+              "location": "Adactin_Login.user_get_the_booking_confirmation_order_no()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "User is booking the room is done!!!",
+            "match": {
+              "location": "Adactin_Login.user_is_booking_the_room_is_done()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To validate the Adactin login Funtionality",
+    "description": "",
+    "id": "to-validate-the-adactin-login-funtionality",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/AdactinMasterCard.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12678,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "To validate the Adactin login with valid credentials",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-login-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User has to be there in Adactin home page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9057,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User has to fill username and password",
+            "match": {
+              "location": "Adactin_Login.user_has_to_fill_username_and_password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "username",
+                  "password"
+                ]
+              },
+              {
+                "cells": [
+                  "SSRajaPalani",
+                  "Sundar"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User Click the Login button",
+            "match": {
+              "location": "Adactin_Login.user_Click_the_Login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User has to be there in Adactin search hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_search_hotel_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 20527,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "To validate the Adactin search hotel page with give the mandatory info to book the hotels",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-search-hotel-page-with-give-the-mandatory-info-to-book-the-hotels",
+        "after": [
+          {
+            "result": {
+              "duration": 7848,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10264,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "User has to be there in Adactin search hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_search_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "User has to enter Loaction and hotel and Room Type and Numbers of rooms and Check in date and Check out date and Adult per room and Childern per room",
+            "match": {
+              "location": "Adactin_Login.user_has_to_enter_Loaction_and_hotel_and_Room_Type_and_Numbers_of_rooms_and_Check_in_date_and_Check_out_date_and_Adult_per_room_and_Childern_per_room()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "User click the search button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "User is navigating to Booking confirmation page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_Booking_confirmation_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12678,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "To validate the Adactin select hotel page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-select-hotel-page",
+        "after": [
+          {
+            "result": {
+              "duration": 10868,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9056,
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "User has to be there in Adactin select hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_select_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7848,
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "User click the Select hotel",
+            "match": {
+              "location": "Adactin_Login.user_click_the_Select_hotel()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7244,
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "User click the continue button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 44074,
+              "status": "skipped"
+            },
+            "line": 21,
+            "name": "User is navigating to Book hotel page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_Book_hotel_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12075,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 33,
+        "name": "To validate the Adactin Book hotel page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-book-hotel-page;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 12679,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 22943,
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "User has to be there in Adactin Book hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_Book_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7848,
+              "status": "skipped"
+            },
+            "line": 25,
+            "name": "User has to enter Firstname and Lastname and Billingaddress and Credit card no and \"Others\" Expirydate and CVV Number",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Others\"",
+                  "offset": 83
+                }
+              ],
+              "location": "Adactin_Login.user_has_to_enter_Firstname_and_Lastname_and_Billingaddress_and_Credit_card_no_and_Expirydate_and_CVV_Number(String,DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Firstname",
+                  "Lastname",
+                  "Billing Address",
+                  "Credit card no",
+                  "CVV Number"
+                ]
+              },
+              {
+                "cells": [
+                  "SSRAJA",
+                  "Palani",
+                  "123,Abc New St",
+                  "8945698745631112",
+                  "951"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7848,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "User click the BookNow button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_BookNow_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "User is navigating to BookingConfirm page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_BookingConfirm_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 35621,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "To validate the Adactin Booking Cofirm page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-booking-cofirm-page",
+        "after": [
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12679,
+              "status": "skipped"
+            },
+            "line": 36,
+            "name": "User has to be there in Adactin Booking Cofirm page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_Booking_Cofirm_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "User get the booking confirmation order no",
+            "match": {
+              "location": "Adactin_Login.user_get_the_booking_confirmation_order_no()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8453,
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "User is booking the room is done!!!",
+            "match": {
+              "location": "Adactin_Login.user_is_booking_the_room_is_done()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To validate the Adactin login Funtionality",
+    "description": "",
+    "id": "to-validate-the-adactin-login-funtionality",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/AdactinOtherCard.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10868,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "To validate the Adactin login with valid credentials",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-login-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User has to be there in Adactin home page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6641,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User has to fill username and password",
+            "match": {
+              "location": "Adactin_Login.user_has_to_fill_username_and_password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "username",
+                  "password"
+                ]
+              },
+              {
+                "cells": [
+                  "SSRajaPalani",
+                  "Sundar"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User Click the Login button",
+            "match": {
+              "location": "Adactin_Login.user_Click_the_Login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User has to be there in Adactin search hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_search_hotel_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12679,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "To validate the Adactin search hotel page with give the mandatory info to book the hotels",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-search-hotel-page-with-give-the-mandatory-info-to-book-the-hotels",
+        "after": [
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8453,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "User has to be there in Adactin search hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_search_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "User has to enter Loaction and hotel and Room Type and Numbers of rooms and Check in date and Check out date and Adult per room and Childern per room",
+            "match": {
+              "location": "Adactin_Login.user_has_to_enter_Loaction_and_hotel_and_Room_Type_and_Numbers_of_rooms_and_Check_in_date_and_Check_out_date_and_Adult_per_room_and_Childern_per_room()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "User click the search button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "User is navigating to Booking confirmation page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_Booking_confirmation_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10868,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "To validate the Adactin select hotel page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-select-hotel-page",
+        "after": [
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8453,
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "User has to be there in Adactin select hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_select_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "User click the Select hotel",
+            "match": {
+              "location": "Adactin_Login.user_click_the_Select_hotel()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "User click the continue button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "line": 21,
+            "name": "User is navigating to Book hotel page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_Book_hotel_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 14490,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 33,
+        "name": "To validate the Adactin Book hotel page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-book-hotel-page;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 18113,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9660,
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "User has to be there in Adactin Book hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_Book_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "line": 25,
+            "name": "User has to enter Firstname and Lastname and Billingaddress and Credit card no and \"VISA\" Expirydate and CVV Number",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"VISA\"",
+                  "offset": 83
+                }
+              ],
+              "location": "Adactin_Login.user_has_to_enter_Firstname_and_Lastname_and_Billingaddress_and_Credit_card_no_and_Expirydate_and_CVV_Number(String,DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Firstname",
+                  "Lastname",
+                  "Billing Address",
+                  "Credit card no",
+                  "CVV Number"
+                ]
+              },
+              {
+                "cells": [
+                  "SSRAJA",
+                  "Palani",
+                  "123,Abc New St",
+                  "8945698745631112",
+                  "951"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 368286,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "User click the BookNow button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_BookNow_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "User is navigating to BookingConfirm page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_BookingConfirm_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13283,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "To validate the Adactin Booking Cofirm page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-booking-cofirm-page",
+        "after": [
+          {
+            "result": {
+              "duration": 8453,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10263,
+              "status": "skipped"
+            },
+            "line": 36,
+            "name": "User has to be there in Adactin Booking Cofirm page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_Booking_Cofirm_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 179917,
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "User get the booking confirmation order no",
+            "match": {
+              "location": "Adactin_Login.user_get_the_booking_confirmation_order_no()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 10263,
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "User is booking the room is done!!!",
+            "match": {
+              "location": "Adactin_Login.user_is_booking_the_room_is_done()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To validate the Adactin login Funtionality",
+    "description": "",
+    "id": "to-validate-the-adactin-login-funtionality",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/AdactinVisa.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 11471,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "To validate the Adactin login with valid credentials",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-login-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 7848,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User has to be there in Adactin home page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8453,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User has to fill username and password",
+            "match": {
+              "location": "Adactin_Login.user_has_to_fill_username_and_password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "username",
+                  "password"
+                ]
+              },
+              {
+                "cells": [
+                  "SSRajaPalani",
+                  "Sundar"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7848,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User Click the Login button",
+            "match": {
+              "location": "Adactin_Login.user_Click_the_Login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 13282,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User has to be there in Adactin search hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_search_hotel_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 11472,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "To validate the Adactin search hotel page with give the mandatory info to book the hotels",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-search-hotel-page-with-give-the-mandatory-info-to-book-the-hotels",
+        "after": [
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "User has to be there in Adactin search hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_search_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "User has to enter Loaction and hotel and Room Type and Numbers of rooms and Check in date and Check out date and Adult per room and Childern per room",
+            "match": {
+              "location": "Adactin_Login.user_has_to_enter_Loaction_and_hotel_and_Room_Type_and_Numbers_of_rooms_and_Check_in_date_and_Check_out_date_and_Adult_per_room_and_Childern_per_room()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "User click the search button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "User is navigating to Booking confirmation page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_Booking_confirmation_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7245,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "To validate the Adactin select hotel page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-select-hotel-page",
+        "after": [
+          {
+            "result": {
+              "duration": 4830,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4830,
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "User has to be there in Adactin select hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_select_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4830,
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "User click the Select hotel",
+            "match": {
+              "location": "Adactin_Login.user_click_the_Select_hotel()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4226,
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "User click the continue button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4226,
+              "status": "skipped"
+            },
+            "line": 21,
+            "name": "User is navigating to Book hotel page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_Book_hotel_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13283,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 33,
+        "name": "To validate the Adactin Book hotel page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-book-hotel-page;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 77883,
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "User has to be there in Adactin Book hotel page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_Book_hotel_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 13283,
+              "status": "skipped"
+            },
+            "line": 25,
+            "name": "User has to enter Firstname and Lastname and Billingaddress and Credit card no and \"American Express\" Expirydate and CVV Number",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"American Express\"",
+                  "offset": 83
+                }
+              ],
+              "location": "Adactin_Login.user_has_to_enter_Firstname_and_Lastname_and_Billingaddress_and_Credit_card_no_and_Expirydate_and_CVV_Number(String,DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Firstname",
+                  "Lastname",
+                  "Billing Address",
+                  "Credit card no",
+                  "CVV Number"
+                ]
+              },
+              {
+                "cells": [
+                  "SSRAJA",
+                  "Palani",
+                  "123,Abc New St",
+                  "8945698745631112",
+                  "951"
+                ]
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 249348,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "User click the BookNow button",
+            "match": {
+              "location": "Adactin_Login.user_click_the_BookNow_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 14490,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "User is navigating to BookingConfirm page",
+            "match": {
+              "location": "Adactin_Login.user_is_navigating_to_BookingConfirm_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12075,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "To validate the Adactin Booking Cofirm page",
+        "description": "",
+        "id": "to-validate-the-adactin-login-funtionality;to-validate-the-adactin-booking-cofirm-page",
+        "after": [
+          {
+            "result": {
+              "duration": 8453,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "HooksClass.afterScenarios(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8452,
+              "status": "skipped"
+            },
+            "line": 36,
+            "name": "User has to be there in Adactin Booking Cofirm page",
+            "match": {
+              "location": "Adactin_Login.user_has_to_be_there_in_Adactin_Booking_Cofirm_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "User get the booking confirmation order no",
+            "match": {
+              "location": "Adactin_Login.user_get_the_booking_confirmation_order_no()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7849,
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "User is booking the room is done!!!",
+            "match": {
+              "location": "Adactin_Login.user_is_booking_the_room_is_done()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To validate the Adactin login Funtionality",
+    "description": "",
+    "id": "to-validate-the-adactin-login-funtionality",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/Adactin_Login_Page.feature",
+    "tags": []
+  }
+]

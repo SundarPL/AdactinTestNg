@@ -1,0 +1,4 @@
+src/test/resources/features/AdactinOtherCard.feature:33:35
+src/test/resources/features/Adactin_Login_Page.feature:33
+src/test/resources/features/AdactinVisa.feature:33
+src/test/resources/features/AdactinMasterCard.feature:33
